@@ -1,4 +1,4 @@
-package Magic_8_Ball;
+package magic8ball;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
